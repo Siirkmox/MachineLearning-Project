@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.env
+.venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
